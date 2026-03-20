@@ -67,5 +67,4 @@ Istället för att Gateway-enheten hela tiden frågar efter data (*polling*), an
 
 ---
 
-**Projektstatus:** BLE-länk etablerad och fungerande.  
-**Nästa fas:** Implementera MQTT-vidarebefordran från ESP32-H2 till en lokal broker.
+**Projektstatus:** BLE-länk etablerad och fungerande.
