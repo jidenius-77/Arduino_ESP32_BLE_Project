@@ -57,7 +57,7 @@ void loop() {
         Serial.println(sensorValue);
       }
 
-      // Viktigt: låt BLE jobba
+      // Låt BLE jobba
       BLE.poll();
     }
 
